@@ -7,7 +7,7 @@
   <li>Inspired by dank memes and big dreams</li>
   <li>🐶 dogs > Cats 🐈</li>
   <li>Go vegan 🌱</li>
-  <li>He/Him</li>
+  <li>He/Him 👨</li>
 </ul>
 <br>
 <h2>Thigs I Work With</h2>
