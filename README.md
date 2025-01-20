@@ -3,7 +3,7 @@
 <ul>
   <li>I'm a frontend developer</li>
   <li>I mostly do web and cloud things</li>
-  <li>Currently learning Python & Go via <a href="https://boot.dev">Boot.dev</a></li>
+  <li>Currently learning Python</li>
   <li>Inspired by dank memes and big dreams</li>
   <li>🐶 dogs > Cats 🐈</li>
   <li>Go vegan 🌱</li>
