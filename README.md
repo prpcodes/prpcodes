@@ -5,7 +5,7 @@
   <li>I mostly do web and cloud things</li>
   <li>Currently learning Python</li>
   <li>Inspired by dank memes and big dreams</li>
-  <li>🐶 dogs > Cats 🐈</li>
+  <li>🐶Luna</li>
   <li>Go vegan 🌱</li>
   <li>He/Him 👨</li>
 </ul>
