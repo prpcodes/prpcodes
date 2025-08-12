@@ -8,7 +8,6 @@
   <li>Go vegan 🌱</li>
   <li>He/Him 👨</li>
 </ul>
-<br>
 <h2>Thigs I Work With</h2>
 <div align="center">
   <img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/git.svg" />
