@@ -1,4 +1,3 @@
-<img align="right" width="350px" src="https://c.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif" />
 <h2>Hi there 👋, I am Philipp.</h2>
 <ul>
   <li>I'm a frontend developer</li>
