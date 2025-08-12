@@ -18,9 +18,9 @@
   <img align="left" alt="NodeJs" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/nodejs.svg" />
   <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/nextjs.svg" />
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/react.svg" />
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/python.svg" />
-  <img align="left" alt="Django" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/django.svg" />
   <img align="left" alt="TailwindCSS" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/tailwindcss.svg" />
   <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/postgresql.svg" />
   <img align="left" alt="AWS" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/aws.svg" />
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/python.svg" />
+  <img align="left" alt="Django" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/django.svg" />
 </div>
