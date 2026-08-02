@@ -17,5 +17,5 @@
   <img align="left" alt="Django" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/django.svg" />
   <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/java.svg" />
   <img align="left" alt="Spring Boot" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/springboot.svg" />
-  <img align="left" alt="AWS" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/aws.svg" />
+  <img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/aws.svg" />
 </div>
