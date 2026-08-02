@@ -15,7 +15,7 @@
   <img align="left" alt="Nuxt" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/nuxt.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/python.svg" />
   <img align="left" alt="Django" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/django.svg" />
-  <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/java.svg" />
-  <img align="left" alt="Spring" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/spring.svg" />
+  <img align="left" alt="Java" width="75px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/java.svg" />
+  <img align="left" alt="Spring" width="120px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/spring.svg" />
   <img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prpcodes/prpcodes/main/logos/aws.svg" />
 </div>
